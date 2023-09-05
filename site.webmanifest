@@ -1,0 +1,18 @@
+---
+layout: null
+---
+
+{
+  "name": "{{ site.title }} &vbar; {{ site.description }}",
+  "short_name": "{{ site.title }}",
+  "icons": [
+    {
+      "src": "/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
