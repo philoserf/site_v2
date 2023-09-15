@@ -7,13 +7,14 @@ I am …
 … grateful for
 
 - the autumn with all the changes it brings each day
+- my recent long-haul drive from Portland Oregon to Michigan
 
 … looking forward to
 
-- driving my eldest son's car across the country as he begins his new job in the Midwest
-- a short getaway with my wife as soon as I return from the drive
+- a short getaway with my wife
+- subtle changes to my daily routines 
 
-… looking into the future for
+… am anticipating
 
 - the total Solar eclipse on 2024-04-08 as seen from Mazatlán
 - the total Solar eclipse on 2026-08-12 as seen from Bilbao
