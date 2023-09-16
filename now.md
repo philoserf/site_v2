@@ -8,7 +8,7 @@ I am …
 
 … grateful for
 
-— autumn with all the changes it brings each day
+- autumn with all the changes it brings each day
 - a recent long-haul drive from Portland, Oregon, to Michigan
 
 … looking forward to
