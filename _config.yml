@@ -49,18 +49,13 @@ branch: main
 
 exclude:
   - _site/
-  - .task/
-  - .env
-  - .gitattributes
   - .gitignore
   - .markdownlint.yaml
   - .yamllint
   - Brewfile
-  - Brewfile.lock.json
   - check-dns
   - CNAME
-  - Gemfile
-  - Gemfile.lock
+  - Gemfile.local
   - LICENSE
   - README.md
   - taskfile.yaml
