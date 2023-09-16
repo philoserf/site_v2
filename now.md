@@ -14,7 +14,7 @@ I am …
 … looking forward to
 
 - a short getaway with my wife
-- subtle changes to my daily routines 
+- subtle changes to my daily routines
 - the total Solar eclipse on 2024-04-08 as seen from Mazatlán
 - the total Solar eclipse on 2026-08-12 as seen from Bilbao
 
