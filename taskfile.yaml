@@ -16,10 +16,11 @@ tasks:
 
   bundle:
     sources:
-      - "Gemfile"
+      - "Gemfile.local"
     generates:
       - "Gemfile.lock"
     cmds:
+      - cp Gemfile.local Gemfile
       - bundle update
 
   doctor:

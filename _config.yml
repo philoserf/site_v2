@@ -13,7 +13,7 @@ job:
   employer: Hypori, Inc.
   title: Senior Site Reliability Engineer
 
-remote_theme: benbalter/retlab
+remote_theme: philoserf/theme
 
 contact_links:
   - name: Email

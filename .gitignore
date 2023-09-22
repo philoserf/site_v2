@@ -6,3 +6,5 @@ _site/
 .env
 .task
 Gemfile.lock
+Gemfile
+Brewfile.lock.json
