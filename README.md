@@ -1,3 +1,5 @@
-# Site source
+# Site
 
-[![pages-build-deployment](https://github.com/philoserf/site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/philoserf/site/actions/workflows/pages/pages-build-deployment)
+a place to play
+
+[![deploy](https://github.com/philoserf/site/actions/workflows/deploy.yml/badge.svg)](https://github.com/philoserf/site/actions/workflows/deploy.yml)

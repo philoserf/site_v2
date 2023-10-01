@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mark Ayers
+N:mark;ayers;;;
+NICKNAME:philoserf
+EMAIL:mark@philoserf.com
+KEY;TYPE=PGP:/key.asc
+PHOTO;TYPE=JPEG;VALUE=URI:/img/avatar.jpg
+SOURCE:/vcard.vcf
+TITLE:Senior Site Reliability Engineer
+ORG:Hypori
+TZ:-05:00
+URL:https://philoserf.com/
+END:VCARD

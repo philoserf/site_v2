@@ -1,0 +1,11 @@
+/* TEAM */
+Writer, Editor, and Publisher: Mark Ayers
+Email: mark@philoserf.com
+Site: https://philoserf.com/
+Location: Greater Grand Rapids, Michigan, USA
+
+/* SITE */
+Last update: 2023-09-29
+Hosting: GitHub Pages, Cloudflare
+Construction: Hugo
+Theme: Coder

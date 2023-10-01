@@ -1,0 +1,59 @@
+# https://taskfile.dev
+version: "3"
+
+tasks:
+  default:
+    deps: [test]
+
+  bootstrap:
+    sources: [Brewfile]
+    generates: [Brewfile.lock.json]
+    method: timestamp
+    cmds:
+      - brew bundle
+
+  fix:
+    deps: [bootstrap]
+    cmds:
+      - prettier --write --list-different --ignore-unknown .
+      - markdownlint --fix .
+
+  test:
+    deps: [bootstrap]
+    cmds:
+      - |
+        act pull_request \
+          --secret GITHUB_TOKEN="$(gh auth token)"  \
+          --container-architecture linux/amd64
+
+  build:
+    deps: [bootstrap]
+    sources: [hugo.yaml, content/**/*, static/**/*]
+    generates: [public/**/*]
+    cmds:
+      - hugo --cleanDestinationDir --buildFuture --buildDrafts --buildExpired
+
+  serve:
+    deps: [bootstrap]
+    cmds:
+      - hugo server --buildDrafts --buildFuture --buildExpired --disableFastRender --navigateToChanged
+
+  commit:
+    deps: [bootstrap, build]
+    interactive: true
+    cmds:
+      - test $(git rev-parse --abbrev-ref HEAD) != main
+      - git add -p
+      - git diff --name-only
+      - read -p "Control-C to abort, Enter to continue." _
+      - git add .
+      - read -p "Commit message? " COMMIT_MESSAGE && git commit -m ${COMMIT_MESSAGE}
+      - git push
+
+  tag:
+    deps: [bootstrap, build]
+    interactive: true
+    cmds:
+      - test $(git rev-parse --abbrev-ref HEAD) = main
+      - read -p "Tag? " TAG && git tag ${TAG}
+      - git push --tags

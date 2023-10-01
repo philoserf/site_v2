@@ -1,4 +1,3 @@
-site.webmanifest
-_layouts/
-_site/
-.task/
+public/
+resources/
+archetypes/

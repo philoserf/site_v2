@@ -1,0 +1,27 @@
+name: lint
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v13
+        with:
+          globs: |
+            *.md
+            **/*.md
+      - uses: actionsx/prettier@v3
+        with:
+          args: --check --ignore-unknown .
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install yamllint
+          yamllint .
