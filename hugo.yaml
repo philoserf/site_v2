@@ -1,0 +1,56 @@
+title: locally reversing entropy
+baseURL: https://philoserf.com/
+languageCode: en-US
+copyright: 2023, Mark Ayers; all rights reserved.
+
+module:
+  imports:
+    - path: github.com/luizdepra/hugo-coder
+
+params:
+  author: Mark Ayers
+  since: 1962
+  info: a human being, being human
+  description: a place to play
+  commit: https://github.com/philoserf/site/tree/
+  keywords: website
+  avatarURL: /img/avatar.jpg
+  hideColorSchemeToggle: true
+  social:
+    - name: GitHub
+      icon: "fa fa-github fa-2x"
+      url: https://github.com/philoserf/
+    - name: Mastodon
+      icon: "fa fa-mastodon fa-2x"
+      url: https://pkm.social/philoserf/
+    - name: LinkedIn
+      icon: "fa fa-linkedin fa-2x"
+      url: https://linkedin.com/in/markpaulayers/
+
+taxonomies:
+  tag: topics
+  # series: series
+
+menus:
+  main:
+    - name: "About"
+      url: "about/"
+      weight: 1
+    - name: "Now"
+      url: "now/"
+      weight: 2
+    - name: "Contact"
+      url: "contact/"
+      weight: 3
+    - name: "Colophon"
+      url: "colophon/"
+      weight: 4
+    - name: "Articles"
+      url: "posts/"
+      weight: 90
+    - name: "Topics"
+      url: "topics/"
+      weight: 99
+    # - name: "Series"
+    #   url: "series/"
+    #   weight: 99
