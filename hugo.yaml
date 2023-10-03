@@ -1,4 +1,4 @@
-title: locally reversing entropy
+title: Reversing entropy, locally
 baseURL: https://philoserf.com/
 languageCode: en-US
 copyright: 2023, Mark Ayers; all rights reserved.
@@ -11,7 +11,7 @@ params:
   author: Mark Ayers
   since: 1962
   info: a human being, being human
-  description: a place to play
+  description: while increasing entropy globally
   commit: https://github.com/philoserf/site/tree/
   keywords: website
   avatarURL: /img/avatar.jpg
