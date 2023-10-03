@@ -1,7 +1,7 @@
 title: Reversing entropy, locally
 baseURL: https://philoserf.com/
 languageCode: en-US
-copyright: 2023, Mark Ayers; all rights reserved.
+copyright: Mark Ayers
 
 module:
   imports:

@@ -18,14 +18,6 @@ tasks:
       - prettier --write --list-different --ignore-unknown .
       - markdownlint --fix .
 
-  test:
-    deps: [bootstrap]
-    cmds:
-      - |
-        act pull_request \
-          --secret GITHUB_TOKEN="$(gh auth token)"  \
-          --container-architecture linux/amd64
-
   build:
     deps: [bootstrap]
     sources: [hugo.yaml, content/**/*, static/**/*]
@@ -38,22 +30,22 @@ tasks:
     cmds:
       - hugo server --buildDrafts --buildFuture --buildExpired --disableFastRender --navigateToChanged
 
+  test:
+    deps: [bootstrap]
+    cmds:
+      - |
+        act pull_request \
+          --secret GITHUB_TOKEN="$(gh auth token)"  \
+          --container-architecture linux/amd64
+
   commit:
     deps: [bootstrap, build]
     interactive: true
     cmds:
-      - test $(git rev-parse --abbrev-ref HEAD) != main
+      - test "$(git rev-parse --abbrev-ref HEAD)" != "main"
       - git add -p
       - git diff --name-only
-      - read -p "Control-C to abort, Enter to continue." _
+      - read -rp "Control-C to abort, Enter to continue." _
       - git add .
-      - read -p "Commit message? " COMMIT_MESSAGE && git commit -m ${COMMIT_MESSAGE}
+      - read -rp "Commit message? " COMMIT_MESSAGE && git commit -m "${COMMIT_MESSAGE}"
       - git push
-
-  tag:
-    deps: [bootstrap, build]
-    interactive: true
-    cmds:
-      - test $(git rev-parse --abbrev-ref HEAD) = main
-      - read -p "Tag? " TAG && git tag ${TAG}
-      - git push --tags
