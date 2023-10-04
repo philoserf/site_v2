@@ -45,7 +45,7 @@ menus:
     - name: "Colophon"
       url: "colophon/"
       weight: 4
-    - name: "Articles"
+    - name: "Posts"
       url: "posts/"
       weight: 90
     - name: "Topics"
