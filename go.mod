@@ -2,6 +2,4 @@ module github.com/philoserf/site
 
 go 1.21
 
-require (
-	github.com/luizdepra/hugo-coder v0.0.0-20230824200107-e35f1da207cb // indirect
-)
+require github.com/philoserf/theme v0.0.0-20231007031944-02b0ed8e0b22 // indirect
