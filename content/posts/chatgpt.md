@@ -5,7 +5,7 @@ topics: [share]
 featuredImage: "img/chatgpt.webp"
 ---
 
-In the early days of ChatGPT's public availability, I took a look just as the news sources started hyping AI. This is one of my earliest explorations. From it, you may glean a glimpse of me and it.
+_In the early days of ChatGPT's public availability, I took a look just as the news sources started hyping AI. This is one of my earliest explorations._
 
 ---
 
