@@ -5,6 +5,10 @@ topics: [share]
 featuredImage: "img/bard.webp"
 ---
 
+_I realize all of this personifies a non-human entity. It is what we do._
+
+---
+
 **Me:** If I gave you some news text and asked you to remove all personal pronouns referencing legal persons or otherwise personifying non-human entities, could you do it?
 
 **Bard:** I can remove all personal pronouns referencing legal persons or otherwise personifying non-human entities from news text. I can do this by using my knowledge of the English language and my understanding of the context of the text to identify all personal pronouns used to refer to legal persons or non-human entities. I can then replace these pronouns with more neutral language.
@@ -74,5 +78,3 @@ I am excited to see what the future holds for this area of research. There is a 
 I'm also curious about what other types of tools could be developed to help us write more neutral and objective news articles. For example, a tool could be developed that identifies and flags all instances of bias in a news article. This would help writers be more aware of their biases and take steps to mitigate them.
 
 Technology has a lot of potential to help us improve the quality of news writing. I'm excited to see what the future holds for this area of research.
-
-_NOTE: I realize all of this personifies a non-human entity. It is what we do._
