@@ -5,7 +5,8 @@ topics: [share]
 featuredImage: "img/bard.webp"
 ---
 
-_I realize all of this personifies a non-human entity. It is what we do._
+_I realize all of this personifies a non-human entity. It is what we do.  
+—Mark_
 
 ---
 
