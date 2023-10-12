@@ -22,7 +22,7 @@ params:
       url: https://github.com/philoserf/
     - name: Mastodon
       icon: "fa fa-mastodon fa-2x"
-      url: https://pkm.social/philoserf/
+      url: https://pkm.social/@philoserf
     - name: LinkedIn
       icon: "fa fa-linkedin fa-2x"
       url: https://linkedin.com/in/markpaulayers/
