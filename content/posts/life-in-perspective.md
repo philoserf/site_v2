@@ -1,7 +1,6 @@
 ---
 title: Life in Perspective
 date: 2023-10-17
-draft: true
 topics: [share]
 ---
 
