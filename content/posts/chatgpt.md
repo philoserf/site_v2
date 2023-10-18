@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 3.5 rewrites The Cask of Amontillado in the style of…
+title: ChatGPT rewrites The Cask of Amontillado in the style of…
 date: 2023-09-16
 topics: [share]
 featuredImage: "img/chatgpt.webp"
