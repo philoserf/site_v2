@@ -9,7 +9,7 @@ module:
 
 params:
   author: Mark Ayers
-  since: 1962
+  since: 2023
   info: a human being, being human
   description: while increasing entropy globally
   commit: https://github.com/philoserf/site/tree/
