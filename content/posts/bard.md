@@ -1,5 +1,5 @@
 ---
-title: A conversation with Google's Bard on personification of non-human entities
+title: A conversation with Google's Bard on personifying non-human entities
 date: 2023-09-22
 topics: [share]
 featuredImage: "img/bard.webp"
