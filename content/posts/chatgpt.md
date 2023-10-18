@@ -8,6 +8,8 @@ featuredImage: "img/chatgpt.webp"
 _In the early days of ChatGPT's public availability, I took a look just as the news sources started hyping AI. This is one of my earliest explorations.  
 —Mark_
 
+<https://openai.com/chatgpt>
+
 ---
 
 PROMPT: Could you rewrite The Cask of Amontillado by Edgar Allen Poe in the style of Earnest Hemingway?
