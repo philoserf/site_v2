@@ -1,5 +1,5 @@
 ---
-title: A conversation with Google's Bard on personifying non-human entities
+title: A conversation with Bard on personifying non-human entities
 date: 2023-09-22
 topics: [share]
 featuredImage: "img/bard.webp"
@@ -7,6 +7,8 @@ featuredImage: "img/bard.webp"
 
 _I realize all of this personifies a non-human entity. It is what we do.  
 —Mark_
+
+<https://bard.google.com/chat>
 
 ---
 
