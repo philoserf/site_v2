@@ -15,7 +15,8 @@ params:
   commit: https://github.com/philoserf/site/tree/
   keywords: website
   avatarURL: /img/avatar.jpg
-  hideColorSchemeToggle: true
+  colorScheme: auto
+  hideColorSchemeToggle: false
   social:
     - name: GitHub
       icon: "fa fa-github fa-2x"
