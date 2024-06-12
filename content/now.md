@@ -7,10 +7,11 @@ I am …
 - trying to sleep, move, eat, grow, & share each day
 - expecting to live, laugh, cry, & eventually die
 - grateful for
-  - springtime, April showers, May flowers
-  - a recent long-haul drive across the Appalachian mountains and back
+  - early summer, plants in the garden, weather
+  - wins, losses, challenges, and the easy stuff too
 - looking forward to
-  - subtle changes to my daily routines
+  - a quick trip to Las Vegas
+  - all the little changes ahead
   - the total Solar eclipse on 2026-08-12 as seen from Bilbao
 
 My current pastimes are …
@@ -19,18 +20,10 @@ My current pastimes are …
 - craft cocktails
 - intentions around sleeping, moving, eating, growing, & sharing
 - reading
-- programming in Go
-
-My current technical toolset includes …
-
-- iPhone & iOS, iPad & iPadOS, MacBook & macOS
-- zsh, vscode
-- GitHub
-- Obsidian, see <https://notes.philoserf.com/>
-- Readwise & Readwise Reader
+- programming in the Go language
 
 See also <https://notes.philoserf.com/Books+I+am+reading>
 
 ---
 
-This is [Now page](https://nownownow.com/about) was updated 2024-04-29.
+This is [Now page](https://nownownow.com/about) was updated 2024-06-11.
