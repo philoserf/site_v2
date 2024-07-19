@@ -14,7 +14,6 @@ I am …
   - summer heat
   - a recent road trip through the Appalachian mountains
 - looking forward to
-  -  
   - a weekend in Chicago
   - visiting the Pacific Northwest
   - the total Solar eclipse on 2026-08-12 as seen from Bilbao
