@@ -2,28 +2,29 @@
 title: Now
 ---
 
+I am taking time off to enjoy family and road trips.
+
 I am …
 
 - trying to sleep, move, eat, grow, & share each day
 - expecting to live, laugh, cry, & eventually die
 - grateful for
-  - early summer, plants in the garden, weather
-  - wins, losses, challenges, and the easy stuff too
+  - plants in the garden, summer heat
 - looking forward to
-  - a quick trip to Las Vegas
   - all the little changes ahead
+  - a weekend in Chicago
+  - visiting the pacific northwest
   - the total Solar eclipse on 2026-08-12 as seen from Bilbao
 
 My current pastimes are …
 
-- golfing
+- building strength, stability, & stamina
 - craft cocktails
-- intentions around sleeping, moving, eating, growing, & sharing
 - reading
-- programming in the Go language
+- golfing
 
 See also <https://notes.philoserf.com/Books+I+am+reading>
 
 ---
 
-This is [Now page](https://nownownow.com/about) was updated 2024-06-11.
+This is [Now page](https://nownownow.com/about) was updated on 2024-07-19.
