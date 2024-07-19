@@ -9,11 +9,14 @@ I am …
 - trying to sleep, move, eat, grow, & share each day
 - expecting to live, laugh, cry, & eventually die
 - grateful for
-  - plants in the garden, summer heat
+  - my wife, family, & friends
+  - plants in the garden
+  - summer heat
+  - a recent road trip through the Appalachian mountains
 - looking forward to
-  - all the little changes ahead
+  -  
   - a weekend in Chicago
-  - visiting the pacific northwest
+  - visiting the Pacific Northwest
   - the total Solar eclipse on 2026-08-12 as seen from Bilbao
 
 My current pastimes are …
