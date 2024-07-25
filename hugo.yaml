@@ -34,10 +34,6 @@ params:
       icon: "fa fa-briefcase fa-2x"
       url: https://cv.philoserf.com
 
-taxonomies:
-  tag: topics
-  # series: series
-
 menus:
   main:
     - name: "About"
@@ -55,9 +51,3 @@ menus:
     - name: "Posts"
       url: "posts/"
       weight: 90
-    - name: "Topics"
-      url: "topics/"
-      weight: 99
-    # - name: "Series"
-    #   url: "series/"
-    #   weight: 99
