@@ -1,7 +1,7 @@
 ---
 title: A list of tests for regular health monitoring for optimizations
 lastmod: "2024-07-25T17:43:11.119Z"
-date: "2024-07-08"
+date: "2024-07-08T23:11:53.487Z"
 ---
 
 ## Quarterly Tests
