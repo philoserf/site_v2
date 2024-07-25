@@ -8,12 +8,7 @@ import (
 )
 
 func main() {
-	if len(os.Args) < 2 {
-		fmt.Println("Usage: rename <directory>")
-		os.Exit(1)
-	}
-
-	dir := os.Args[1]
+	dir := "./content/posts"
 
 	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
 		if err != nil {

@@ -1,6 +1,6 @@
 ---
 title: Business Writing
-lastmod: 2024-07-25T17:45:56.815Z
+lastmod: "2024-07-25T17:57:53.925Z"
 ---
 
 - Answer:
@@ -13,7 +13,3 @@ lastmod: 2024-07-25T17:45:56.815Z
 - Write the first draft.
 - Revise and polish, repeat.
 - Publish.
-
----
-
-Related: [Writing](Writing), [Communications](Communications), [Share](/Share)
