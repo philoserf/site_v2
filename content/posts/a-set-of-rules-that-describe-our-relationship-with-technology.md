@@ -1,6 +1,6 @@
 ---
 title: A set of rules that describe our relationship with technology
-lastmod: 2024-07-25T17:43:25.303Z
+lastmod: "2024-07-25T17:43:25.303Z"
 ---
 
 Anything in the world when you are born is normal and is just a natural part of how the world works.\
