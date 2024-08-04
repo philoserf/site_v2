@@ -8,6 +8,6 @@ The plank test is a simple and effective exercise to test your core strength. It
 
 Here's how to evaluate the plank test on your elbows:
 
-| Beginner | Intermediate | Advanced | Elite |     |
-| -------- | ------------ | -------- | ----- | --- |
-| < 60     | < 120        | < 180    | > 180 |     |
+| Beginner | Intermediate | Advanced | Elite |
+| -------- | ------------ | -------- | ----- |
+| < 60     | < 120        | < 180    | > 180 |
