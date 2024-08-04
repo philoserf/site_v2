@@ -1,6 +1,6 @@
 ---
 title: A Life in Perspective
-lastmod: "2024-07-25T19:03:57.988Z"
+lastmod: "2024-07-28T21:00:24.965Z"
 date: "2023-02-24T01:26:03.902Z"
 ---
 

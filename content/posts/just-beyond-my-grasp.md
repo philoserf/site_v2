@@ -1,6 +1,6 @@
 ---
 title: Just beyond my grasp
-lastmod: "2024-07-25T20:55:32.817Z"
+lastmod: "2024-07-31T21:53:34.536Z"
 date: "2024-01-22T22:32:26.930Z"
 ---
 
@@ -11,10 +11,9 @@ In front of me\
 Just beyond my grasp
 
 It has always been there\
-Just beyond my grasp\
-seeming to be where\
-In just a moment, more\
-I can reach it
+where\
+In just a moment\
+I can reach
 
 It is right there\
 In front of me\
