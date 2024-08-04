@@ -3,7 +3,7 @@ version: "3"
 
 tasks:
   default:
-    deps: [test]
+    deps: [build]
 
   bootstrap:
     sources: [Brewfile]
@@ -29,14 +29,6 @@ tasks:
     deps: [bootstrap]
     cmds:
       - hugo server --buildDrafts --buildFuture --buildExpired --disableFastRender --navigateToChanged
-
-  test:
-    deps: [bootstrap]
-    cmds:
-      - |
-        act pull_request \
-          --secret GITHUB_TOKEN="$(gh auth token)"  \
-          --container-architecture linux/amd64
 
   commit:
     deps: [bootstrap, build]
