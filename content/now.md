@@ -9,6 +9,7 @@ I am …
 - trying to sleep, move, eat, grow, play, & share each day
 
 - grateful for …
+
   - my wife, family, & friends
   - plants in the garden
   - late summer transitions toward autumn
