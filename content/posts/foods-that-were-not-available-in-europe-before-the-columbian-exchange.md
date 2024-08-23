@@ -1,6 +1,6 @@
 ---
 title: Foods that were not available in Europe before the Columbian Exchange
-lastmod: "2024-08-21T17:12:53.406Z"
+lastmod: "2024-08-21T17:19:44.511Z"
 date: "2024-08-21T16:46:46.354Z"
 ---
 
