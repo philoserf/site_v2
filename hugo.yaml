@@ -14,7 +14,7 @@ params:
   description: while increasing entropy globally
   commit: https://github.com/philoserf/site/tree/
   keywords: website
-  avatarURL: /img/avatar.png
+  avatarURL: /img/avatar.jpg
   colorScheme: auto
   hideColorSchemeToggle: false
   social:
