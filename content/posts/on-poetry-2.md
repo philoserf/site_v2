@@ -1,10 +1,10 @@
 ---
 title: On Poetry 2
-lastmod: "2024-07-25T20:55:34.377Z"
+lastmod: "2024-08-27T20:59:47.119Z"
 date: "2023-02-24T01:26:03.928Z"
 ---
 
-<div style="text-align: right"><small>by Mark Ayers, 1986</small></div>
+by Mark Ayers, 1986
 
 Poetry that's written\
 To entertain oneself
