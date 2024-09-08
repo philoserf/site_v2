@@ -1,6 +1,6 @@
 ---
 title: All creativity is combinational
-lastmod: "2024-08-27T20:59:45.487Z"
+lastmod: "2024-08-28T00:36:20.346Z"
 date: "2024-05-18T22:53:16.031Z"
 ---
 

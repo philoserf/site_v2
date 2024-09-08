@@ -8,59 +8,31 @@ date: "2024-08-24T17:56:29.988Z"
 
 > [!note] Updated 2024-08-24
 
----
-
 > [!item] Apple AirPods Pro
-
----
 
 > [!item] Apple AirTag
 
----
-
 > [!item] Apple HomePod mini
-
----
 
 > [!item] Apple iPad
 
----
-
 > [!item] Apple iPad Pro
-
----
 
 > [!item] Apple iPhone
 
----
-
 > [!item] Apple MacBook Pro
-
----
 
 > [!item] Apple Magic Keyboard
 
----
-
 > [!item] Apple Magic Mouse
-
----
 
 > [!item] Apple Magic Trackpad
 
----
-
 > [!item] Apple Pencil
-
----
 
 > [!item] Apple Watch
 
----
-
 > [!item] [Arccos](url): A Golf Performance Tracking System
-
----
 
 > [!item] [Cronometer](https://cronometer.com/): A Comprehensive Nutrition Tracking Tool
 >
@@ -74,14 +46,8 @@ date: "2024-08-24T17:56:29.988Z"
 >
 > With a comprehensive analysis, you can better understand your nutrient intake and identify potential deficiencies. You can use the data to make informed choices about your diet and nutrition strategy. You will receive customized recommendations tailored to your individual needs and goals. You can also keep track of your nutrition efficiently by monitoring and logging it, saving time and effort.
 
----
-
 > [!item] [iA Writer](url): A Minimalist Writing App
 
----
-
 > [!item] [Obsidian](url): A Note-Taking and Knowledge Management Tool
-
----
 
 > [!item] [Whoop](url): A Wearable Fitness Tracker and Health Monitor
