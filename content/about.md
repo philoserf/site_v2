@@ -2,6 +2,12 @@
 title: About
 ---
 
-Mark Ayers, a well-traveled individual with an eclectic background, lives in Rockford, Michigan. He has lived across the United States, from New York to Georgia, Ohio to Washington, and abroad in Italy and Turkey. Mark is a graduate of the University of Albany with a degree in political science. His career has been diverse, including service in the US Army as an enlisted airborne infantryman and an officer, where he earned the prestigious Ranger Tab. He has worked in various roles at SaaS startups, Nordstrom, and Disney/ESPN. Mark is taking a late career break, focusing on family care, travel, and personal health & fitness. His commitment to community service is evident through his involvement with his local public library board, a regional writers' conference, and various nonprofit organizations, where he has held leadership positions and contributed his expertise.
+## A World of Experience, A Midwestern Heart
+
+Mark Ayers is a seasoned traveler and versatile professional who now calls the American Midwest home. With a career that has spanned the rugged terrain of the US Army and the dynamic world of startups, Mark has a unique perspective that enriches his community.
+
+A graduate of the University of Albany, Mark's journey has taken him across the globe, from the bustling urban streets to the ancient ruins of Italy and Japan. His military service, including the coveted Ranger Tab, instilled in him the values of discipline, teamwork, and leadership.
+
+Mark dedicates his time to family, travel, and well-being today. His commitment to giving back is evident in his active involvement with local organizations, where he has served in leadership roles and shared his expertise.
 
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
