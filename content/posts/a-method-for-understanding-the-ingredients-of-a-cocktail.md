@@ -1,6 +1,6 @@
 ---
 title: A method for understanding the ingredients of a cocktail
-lastmod: "2024-10-12T13:25:55.888Z"
+lastmod: "2024-10-21T01:19:27.366Z"
 date: "2024-10-12T13:25:55.887Z"
 ---
 

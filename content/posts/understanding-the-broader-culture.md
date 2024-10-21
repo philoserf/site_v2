@@ -1,6 +1,6 @@
 ---
 title: Understanding the broader culture
-lastmod: "2024-10-12T13:25:56.620Z"
+lastmod: "2024-10-21T01:19:26.654Z"
 date: "2024-10-12T13:25:56.620Z"
 ---
 

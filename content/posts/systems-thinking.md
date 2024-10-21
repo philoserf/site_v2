@@ -1,6 +1,6 @@
 ---
 title: Systems Thinking
-lastmod: "2024-10-12T13:25:56.237Z"
+lastmod: "2024-10-21T01:19:26.717Z"
 date: "2024-10-12T13:25:56.234Z"
 ---
 

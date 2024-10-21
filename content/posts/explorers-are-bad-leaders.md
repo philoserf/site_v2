@@ -1,6 +1,6 @@
 ---
 title: Explorers Are Bad Leaders
-lastmod: "2024-10-12T13:25:56.297Z"
+lastmod: "2024-10-21T01:19:27.067Z"
 date: "2024-10-12T13:25:56.292Z"
 ---
 

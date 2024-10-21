@@ -1,6 +1,6 @@
 ---
 title: Privately Owned Public Spaces in Seattle
-lastmod: "2024-10-12T13:25:56.606Z"
+lastmod: "2024-10-21T01:19:26.795Z"
 date: "2024-10-12T13:25:56.595Z"
 ---
 

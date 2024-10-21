@@ -1,6 +1,6 @@
 ---
 title: Collected Pangrams
-lastmod: "2024-10-12T13:25:56.468Z"
+lastmod: "2024-10-21T01:19:27.250Z"
 date: "2024-10-12T13:25:56.468Z"
 ---
 

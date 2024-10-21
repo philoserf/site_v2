@@ -1,6 +1,6 @@
 ---
 title: Complex or complicated
-lastmod: "2024-10-12T13:25:56.487Z"
+lastmod: "2024-10-21T01:19:27.246Z"
 date: "2024-10-12T13:25:56.487Z"
 ---
 

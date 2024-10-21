@@ -1,6 +1,6 @@
 ---
 title: A few critical elements of self-discipline
-lastmod: "2024-10-12T13:25:55.875Z"
+lastmod: "2024-10-21T01:19:27.370Z"
 date: "2024-10-12T13:25:55.875Z"
 ---
 

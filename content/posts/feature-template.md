@@ -1,6 +1,6 @@
 ---
 title: Feature Template
-lastmod: "2024-10-12T13:25:56.321Z"
+lastmod: "2024-10-21T01:19:27.059Z"
 date: "2024-10-12T13:25:56.321Z"
 ---
 
