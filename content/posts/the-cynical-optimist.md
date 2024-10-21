@@ -1,7 +1,7 @@
 ---
 title: The Cynical Optimist
-lastmod: "2024-10-21T01:19:26.703Z"
-date: "2024-10-12T13:25:56.356Z"
+lastmod: "2024-10-21T01:25:19.129Z"
+date: "2024-10-12"
 ---
 
 Balance skepticism with hope

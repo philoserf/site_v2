@@ -1,7 +1,7 @@
 ---
 title: Business Writing
-lastmod: "2024-10-21T01:19:27.263Z"
-date: "2024-10-12T13:25:56.427Z"
+lastmod: "2024-10-21T01:25:19.692Z"
+date: "2024-10-12"
 ---
 
 - Answer:

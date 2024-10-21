@@ -1,7 +1,7 @@
 ---
 title: The STAR method
-lastmod: "2024-10-21T01:19:26.687Z"
-date: "2024-10-12T13:25:56.419Z"
+lastmod: "2024-10-21T01:25:19.116Z"
+date: "2024-10-12"
 ---
 
 The STAR method is a framework for answering behavioral interview questions in a structured and effective way. It stands for:

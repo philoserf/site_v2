@@ -1,7 +1,7 @@
 ---
 title: Plank Test
-lastmod: "2024-10-21T01:19:26.802Z"
-date: "2024-10-12T13:25:56.686Z"
+lastmod: "2024-10-21T01:25:19.221Z"
+date: "2024-10-12"
 ---
 
 The plank test is a simple and effective exercise to test your core strength. It involves holding a plank position for as long as possible. The plank test can be done on your elbows or hands, with the elbows version slightly more challenging.

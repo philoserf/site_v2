@@ -1,7 +1,7 @@
 ---
 title: A comparison of popular time and task management systems
-lastmod: "2024-10-21T01:19:27.373Z"
-date: "2024-10-12T13:25:55.869Z"
+lastmod: "2024-10-21T01:25:19.751Z"
+date: "2024-10-12"
 ---
 
 The following compares three popular time and task management systems: Franklin Covey, David Allen's Getting Things Done (GTD), and Ryder Carroll's Bullet Journal. Each system has its unique features, strengths, and weaknesses. By understanding the critical aspects of each system, you can identify the best elements to incorporate into your personal productivity approach.

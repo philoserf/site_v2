@@ -1,7 +1,7 @@
 ---
 title: The US Bloodless Legal Coup d'État of 2000
-lastmod: "2024-10-21T01:19:26.685Z"
-date: "2024-10-12T13:25:56.427Z"
+lastmod: "2024-10-21T01:25:19.113Z"
+date: "2024-10-12"
 ---
 
 The 2000 US presidential election was highly contested and controversial, ultimately decided by the Supreme Court in Bush v. Gore. The events leading up to and including this decision have been widely interpreted as a bloodless coup, a subversion of democracy in which the US legal system and the Supreme Court played a key role.

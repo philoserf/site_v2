@@ -1,7 +1,7 @@
 ---
 title: On Poetry 2
-lastmod: "2024-10-21T01:19:26.824Z"
-date: "2024-10-12T13:25:56.562Z"
+lastmod: "2024-10-21T01:25:19.244Z"
+date: "2024-10-12"
 ---
 
 by Mark Ayers, 1986

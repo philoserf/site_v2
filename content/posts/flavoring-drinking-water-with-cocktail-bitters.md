@@ -1,7 +1,7 @@
 ---
 title: Flavoring drinking water with cocktail bitters
-lastmod: "2024-10-21T01:19:27.049Z"
-date: "2024-10-12T13:25:56.401Z"
+lastmod: "2024-10-21T01:25:19.549Z"
+date: "2024-10-12"
 ---
 
 Here are some helpful tips for flavoring a liter of water with cocktail bitters:

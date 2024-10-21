@@ -1,7 +1,7 @@
 ---
 title: Privately Owned Public Spaces in Seattle
-lastmod: "2024-10-21T01:19:26.795Z"
-date: "2024-10-12T13:25:56.595Z"
+lastmod: "2024-10-21T01:25:19.214Z"
+date: "2024-10-12"
 ---
 
 - 99 Union Street; Union St. plaza and stairs to Western Avenue
