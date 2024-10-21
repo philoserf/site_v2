@@ -1,6 +1,6 @@
 ---
 title: Personal Knowledge Management
-lastmod: "2024-10-12T13:25:56.688Z"
+lastmod: "2024-10-21T01:19:26.806Z"
 date: "2024-10-12T13:25:56.688Z"
 ---
 

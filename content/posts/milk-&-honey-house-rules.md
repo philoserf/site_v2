@@ -1,6 +1,6 @@
 ---
 title: Milk & Honey House Rules
-lastmod: "2024-10-12T13:25:56.521Z"
+lastmod: "2024-10-21T01:19:26.856Z"
 date: "2024-10-12T13:25:56.518Z"
 ---
 

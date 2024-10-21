@@ -1,6 +1,6 @@
 ---
 title: Foods that were not available in Scandinavia before 1100
-lastmod: "2024-10-12T13:25:56.409Z"
+lastmod: "2024-10-21T01:19:27.040Z"
 date: "2024-10-12T13:25:56.409Z"
 ---
 

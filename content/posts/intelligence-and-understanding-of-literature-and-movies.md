@@ -1,6 +1,6 @@
 ---
 title: Intelligence and Understanding of Literature and Movies
-lastmod: "2024-10-12T13:25:56.228Z"
+lastmod: "2024-10-21T01:19:26.925Z"
 date: "2024-10-12T13:25:56.221Z"
 ---
 

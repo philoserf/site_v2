@@ -1,6 +1,6 @@
 ---
 title: Give Me Liberty or Give Me Death
-lastmod: "2024-10-12T13:25:56.521Z"
+lastmod: "2024-10-21T01:19:27.012Z"
 date: "2024-10-12T13:25:56.517Z"
 ---
 

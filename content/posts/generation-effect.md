@@ -1,6 +1,6 @@
 ---
 title: Generation Effect
-lastmod: "2024-10-12T13:25:56.451Z"
+lastmod: "2024-10-21T01:19:27.018Z"
 date: "2024-10-12T13:25:56.448Z"
 ---
 

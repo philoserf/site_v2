@@ -1,6 +1,6 @@
 ---
 title: Administrivia
-lastmod: "2024-10-12T13:25:55.997Z"
+lastmod: "2024-10-21T01:19:27.357Z"
 date: "2024-10-12T13:25:55.994Z"
 ---
 

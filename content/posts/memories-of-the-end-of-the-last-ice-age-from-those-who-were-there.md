@@ -1,6 +1,6 @@
 ---
 title: Memories of the End of the Last Ice Age From Those Who Were There
-lastmod: "2024-10-12T13:25:56.475Z"
+lastmod: "2024-10-21T01:19:26.862Z"
 date: "2024-10-12T13:25:56.466Z"
 ---
 
