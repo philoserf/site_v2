@@ -1,7 +1,7 @@
 ---
 title: Expats in Italy
-lastmod: "2024-10-21T01:19:27.072Z"
-date: "2024-10-12T13:25:56.288Z"
+lastmod: "2024-10-21T01:25:19.558Z"
+date: "2024-10-12"
 ---
 
 The primary concentrations of English-speaking expat retirees in Italy tend to be in:

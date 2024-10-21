@@ -1,7 +1,7 @@
 ---
 title: Rules for a Cocktail Party
-lastmod: "2024-10-21T01:19:26.769Z"
-date: "2024-10-12T13:25:56.667Z"
+lastmod: "2024-10-21T01:25:19.190Z"
+date: "2024-10-12"
 ---
 
 - Drinks usually start between 17:30 and 19:00.

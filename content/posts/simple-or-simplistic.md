@@ -1,7 +1,7 @@
 ---
 title: Simple or simplistic
-lastmod: "2024-10-21T01:19:26.747Z"
-date: "2024-10-12T13:25:55.878Z"
+lastmod: "2024-10-21T01:25:19.168Z"
+date: "2024-10-12"
 ---
 
 The words _simple_ and _simplistic_ have similar meanings but convey distinct nuances.

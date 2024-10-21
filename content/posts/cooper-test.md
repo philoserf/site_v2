@@ -1,7 +1,7 @@
 ---
 title: Cooper Test
-lastmod: "2024-10-21T01:19:27.241Z"
-date: "2024-10-12T13:25:56.537Z"
+lastmod: "2024-10-21T01:25:19.659Z"
+date: "2024-10-12"
 ---
 
 The Cooper Test is a test of physical fitness. It was designed by Kenneth H. Cooper in 1968 for US military use. The test is still used today with minor modifications. The test is a simple test of aerobic fitness and a maximal test, which means the participant must continue to the point of exhaustion. The test is beneficial for individuals who are looking to improve their aerobic fitness.

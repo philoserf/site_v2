@@ -1,7 +1,7 @@
 ---
 title: Unpaid Endorsements
-lastmod: "2024-10-21T01:19:26.653Z"
-date: "2024-10-12T13:25:56.623Z"
+lastmod: "2024-10-21T01:25:19.064Z"
+date: "2024-10-12"
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote -->

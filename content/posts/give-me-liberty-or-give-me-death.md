@@ -1,7 +1,7 @@
 ---
 title: Give Me Liberty or Give Me Death
-lastmod: "2024-10-21T01:19:27.012Z"
-date: "2024-10-12T13:25:56.517Z"
+lastmod: "2024-10-21T01:25:19.518Z"
+date: "2024-10-12"
 ---
 
 Patrick Henry, March 23, 1775

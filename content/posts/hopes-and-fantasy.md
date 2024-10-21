@@ -1,7 +1,7 @@
 ---
 title: Hopes and Fantasy
-lastmod: "2024-10-21T01:19:26.944Z"
-date: "2024-10-12T13:25:55.870Z"
+lastmod: "2024-10-21T01:25:19.386Z"
+date: "2024-10-12"
 ---
 
 It can be challenging to differentiate between hopes for the future and fantasy about a different life. Here are a few ways to help distinguish between the two:

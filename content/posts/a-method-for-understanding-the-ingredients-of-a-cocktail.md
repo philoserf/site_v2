@@ -1,7 +1,7 @@
 ---
 title: A method for understanding the ingredients of a cocktail
-lastmod: "2024-10-21T01:19:27.366Z"
-date: "2024-10-12T13:25:55.887Z"
+lastmod: "2024-10-21T01:25:19.744Z"
+date: "2024-10-12"
 ---
 
 1. Mix 14ml of an ingredient with 1l of water

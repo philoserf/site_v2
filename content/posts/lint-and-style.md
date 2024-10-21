@@ -1,7 +1,7 @@
 ---
 title: Lint and Style
-lastmod: "2024-10-21T01:19:26.892Z"
-date: "2024-10-12T13:25:56.425Z"
+lastmod: "2024-10-21T01:25:19.341Z"
+date: "2024-10-12"
 ---
 
 Shared style and lint standards are essential in software projects for several reasons:

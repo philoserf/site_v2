@@ -1,7 +1,7 @@
 ---
 title: The PAR method
-lastmod: "2024-10-21T01:19:26.698Z"
-date: "2024-10-12T13:25:56.408Z"
+lastmod: "2024-10-21T01:25:19.122Z"
+date: "2024-10-12"
 ---
 
 The PAR method is a framework for responding to customer complaints or feedback. It stands for:

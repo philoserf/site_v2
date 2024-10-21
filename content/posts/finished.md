@@ -1,7 +1,7 @@
 ---
 title: Finished
-lastmod: "2024-10-21T01:19:27.056Z"
-date: "2024-10-12T13:25:56.329Z"
+lastmod: "2024-10-21T01:25:19.551Z"
+date: "2024-10-12"
 ---
 
 When is a thing finished? Is anything ever really finished? I do not think so. Still, an item may be in a state of infrequent change. Hopefully, that is not stagnation, only a rest along the journey.

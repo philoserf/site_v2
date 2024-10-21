@@ -1,7 +1,7 @@
 ---
 title: Realistic Income Model, a Traveller House Rules Expansion
-lastmod: "2024-10-21T01:19:26.786Z"
-date: "2024-10-12T13:25:56.658Z"
+lastmod: "2024-10-21T01:25:19.205Z"
+date: "2024-10-12"
 ---
 
 From: Mark Ayers\

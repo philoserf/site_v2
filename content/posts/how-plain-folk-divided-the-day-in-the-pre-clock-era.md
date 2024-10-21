@@ -1,7 +1,7 @@
 ---
 title: How plain folk divided the day in the pre-clock era
-lastmod: "2024-10-21T01:19:26.942Z"
-date: "2024-10-12T13:25:55.879Z"
+lastmod: "2024-10-21T01:25:19.384Z"
+date: "2024-10-12"
 ---
 
 ## Solar Markers
