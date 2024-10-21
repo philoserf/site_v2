@@ -1,7 +1,7 @@
 ---
 title: Understanding OKRs for Individual Contributors
-lastmod: "2024-07-25T20:55:40.378Z"
-date: "2024-03-20T18:02:58.467Z"
+lastmod: "2024-10-12T13:25:56.619Z"
+date: "2024-10-12T13:25:56.619Z"
 ---
 
 - Alignment with team/company goals: Your OKRs should always tie back to your team's and the organization's broader goals. It's not about solely your tasks but how they contribute to the bigger picture.

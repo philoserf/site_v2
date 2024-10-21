@@ -1,7 +1,7 @@
 ---
 title: Public sources of information for US citizens considering retirement abroad
-lastmod: "2024-07-25T20:55:35.557Z"
-date: "2024-06-30T18:56:28.126Z"
+lastmod: "2024-10-12T13:25:56.624Z"
+date: "2024-10-12T13:25:56.624Z"
 ---
 
 - U.S. State Department: The "Retirement Abroad" page offers essential information and considerations.

@@ -1,7 +1,7 @@
 ---
 title: Slide Decks notes
-lastmod: "2024-07-25T20:55:39.227Z"
-date: "2024-01-22T22:32:26.937Z"
+lastmod: "2024-10-12T13:25:55.933Z"
+date: "2024-10-12T13:25:55.922Z"
 ---
 
 - title

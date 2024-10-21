@@ -1,7 +1,7 @@
 ---
 title: Top Live Music Venues in the US
-lastmod: "2024-08-23T02:30:51.010Z"
-date: "2024-08-23T01:45:17.792Z"
+lastmod: "2024-10-12T13:25:56.584Z"
+date: "2024-10-12T13:25:56.570Z"
 ---
 
 - Red Rocks Amphitheatre, Morrison, Colorado, is famous for its natural rock formations and stunning views. It hosts concerts in an open-air setting, creating an unforgettable experience.

@@ -1,7 +1,7 @@
 ---
 title: Feature Template
-lastmod: "2024-07-25T20:55:30.003Z"
-date: "2023-07-19T13:16:15.942Z"
+lastmod: "2024-10-12T13:25:56.321Z"
+date: "2024-10-12T13:25:56.321Z"
 ---
 
 ```gherkin

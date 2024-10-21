@@ -1,7 +1,7 @@
 ---
 title: Explorers Are Bad Leaders
-lastmod: "2024-07-25T20:55:29.977Z"
-date: "2023-06-23T13:38:50.198Z"
+lastmod: "2024-10-12T13:25:56.297Z"
+date: "2024-10-12T13:25:56.292Z"
 ---
 
 Source: <https://sive.rs/exled>

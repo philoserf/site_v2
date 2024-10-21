@@ -1,7 +1,7 @@
 ---
 title: Scientific Method
-lastmod: "2024-07-25T20:55:38.422Z"
-date: "2023-07-19T13:16:15.943Z"
+lastmod: "2024-10-12T13:25:56.701Z"
+date: "2024-10-12T13:25:56.699Z"
 ---
 
 1. Develop a hypothesis

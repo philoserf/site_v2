@@ -1,7 +1,7 @@
 ---
 title: Periodic Reviews
-lastmod: "2024-08-19T02:08:27.219Z"
-date: "2024-06-25T01:05:19.792Z"
+lastmod: "2024-10-12T13:25:56.684Z"
+date: "2024-10-12T13:25:56.680Z"
 ---
 
 Periodic reviews, a cornerstone of the Getting Things Done (GTD) system, keep your projects and tasks updated and provide a space for personal reflection. This reflective aspect allows you to reassess your goals and priorities.

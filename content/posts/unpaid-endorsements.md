@@ -1,40 +1,40 @@
 ---
 title: Unpaid Endorsements
-lastmod: "2024-08-25T04:01:08.630Z"
-date: "2024-08-24T17:56:29.988Z"
+lastmod: "2024-10-12T13:25:56.626Z"
+date: "2024-10-12T13:25:56.623Z"
 ---
 
 <!-- markdownlint-disable no-blanks-blockquote -->
 
-> [!note] Updated 2024-08-24
+> \[!note] Updated 2024-08-24
 
-> [!item] Apple AirPods Pro
+> \[!item] Apple AirPods Pro
 
-> [!item] Apple AirTag
+> \[!item] Apple AirTag
 
-> [!item] Apple HomePod mini
+> \[!item] Apple HomePod mini
 
-> [!item] Apple iPad
+> \[!item] Apple iPad
 
-> [!item] Apple iPad Pro
+> \[!item] Apple iPad Pro
 
-> [!item] Apple iPhone
+> \[!item] Apple iPhone
 
-> [!item] Apple MacBook Pro
+> \[!item] Apple MacBook Pro
 
-> [!item] Apple Magic Keyboard
+> \[!item] Apple Magic Keyboard
 
-> [!item] Apple Magic Mouse
+> \[!item] Apple Magic Mouse
 
-> [!item] Apple Magic Trackpad
+> \[!item] Apple Magic Trackpad
 
-> [!item] Apple Pencil
+> \[!item] Apple Pencil
 
-> [!item] Apple Watch
+> \[!item] Apple Watch
 
-> [!item] [Arccos](url): A Golf Performance Tracking System
+> \[!item] [Arccos](url): A Golf Performance Tracking System
 
-> [!item] [Cronometer](https://cronometer.com/): A Comprehensive Nutrition Tracking Tool
+> \[!item] [Cronometer](https://cronometer.com/): A Comprehensive Nutrition Tracking Tool
 >
 > Cronometer is a platform for tracking nutrition designed to help individuals optimize their diet and nutrient intake. It provides features for monitoring and analyzing nutrient intake, ensuring users meet their dietary goals. It runs on a web-based platform and mobile apps.
 >
@@ -46,8 +46,8 @@ date: "2024-08-24T17:56:29.988Z"
 >
 > With a comprehensive analysis, you can better understand your nutrient intake and identify potential deficiencies. You can use the data to make informed choices about your diet and nutrition strategy. You will receive customized recommendations tailored to your individual needs and goals. You can also keep track of your nutrition efficiently by monitoring and logging it, saving time and effort.
 
-> [!item] [iA Writer](url): A Minimalist Writing App
+> \[!item] [iA Writer](url): A Minimalist Writing App
 
-> [!item] [Obsidian](url): A Note-Taking and Knowledge Management Tool
+> \[!item] [Obsidian](url): A Note-Taking and Knowledge Management Tool
 
-> [!item] [Whoop](url): A Wearable Fitness Tracker and Health Monitor
+> \[!item] [Whoop](url): A Wearable Fitness Tracker and Health Monitor

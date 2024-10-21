@@ -1,7 +1,7 @@
 ---
 title: Who I would invite for dinner, drinks, and conversation
-lastmod: "2024-07-25T20:55:40.750Z"
-date: "2024-02-07T22:14:17.040Z"
+lastmod: "2024-10-12T13:25:56.413Z"
+date: "2024-10-12T13:25:56.413Z"
 ---
 
 target: 8 ± 2\

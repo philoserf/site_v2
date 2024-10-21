@@ -1,7 +1,7 @@
 ---
 title: Strategies for improving lactate clearance during exercise
-lastmod: "2024-07-25T20:55:39.341Z"
-date: "2024-07-08T23:12:21.970Z"
+lastmod: "2024-10-12T13:25:56.135Z"
+date: "2024-10-12T13:25:56.135Z"
 ---
 
 - Increase aerobic capacity: Regularly perform aerobic exercises to enhance your body's ability to use oxygen efficiently.

@@ -1,7 +1,7 @@
 ---
 title: On learning languages
-lastmod: "2024-08-27T20:53:56.791Z"
-date: "2024-08-27T20:49:56.573Z"
+lastmod: "2024-10-12T13:25:56.578Z"
+date: "2024-10-12T13:25:56.578Z"
 ---
 
 learning…

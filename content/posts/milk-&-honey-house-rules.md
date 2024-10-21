@@ -1,7 +1,7 @@
 ---
 title: Milk & Honey House Rules
-lastmod: "2024-07-25T20:55:33.761Z"
-date: "2023-09-01T18:43:10.340Z"
+lastmod: "2024-10-12T13:25:56.521Z"
+date: "2024-10-12T13:25:56.518Z"
 ---
 
 - No name-dropping, no star fucking.

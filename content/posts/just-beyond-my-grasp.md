@@ -1,7 +1,7 @@
 ---
 title: Just beyond my grasp
-lastmod: "2024-07-31T21:53:34.536Z"
-date: "2024-01-22T22:32:26.930Z"
+lastmod: "2024-10-12T13:25:56.321Z"
+date: "2024-10-12T13:25:56.321Z"
 ---
 
 <div style="text-align: right"><small>By Mark Ayers, 2023</small></div>

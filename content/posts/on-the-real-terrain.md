@@ -1,7 +1,7 @@
 ---
 title: On The Real Terrain
-lastmod: "2024-07-25T20:55:34.405Z"
-date: "2023-05-23T01:48:24.698Z"
+lastmod: "2024-10-12T13:25:56.565Z"
+date: "2024-10-12T13:25:56.564Z"
 ---
 
 <div style="text-align: right"><small>by Mark Ayers, 2018</small></div>

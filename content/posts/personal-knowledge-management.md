@@ -1,7 +1,7 @@
 ---
 title: Personal Knowledge Management
-lastmod: "2024-07-25T20:55:34.878Z"
-date: "2024-06-25T01:08:44.262Z"
+lastmod: "2024-10-12T13:25:56.688Z"
+date: "2024-10-12T13:25:56.688Z"
 ---
 
 Knowledge management is creating, sharing, using, and managing an organization's knowledge and information. It refers to a multidisciplinary approach to achieving organizational objectives using the best knowledge.

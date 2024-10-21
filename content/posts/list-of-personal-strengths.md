@@ -1,7 +1,7 @@
 ---
 title: List of Personal Strengths
-lastmod: "2024-07-25T20:55:33.226Z"
-date: "2023-07-14T15:13:06.109Z"
+lastmod: "2024-10-12T13:25:56.441Z"
+date: "2024-10-12T13:25:56.440Z"
 ---
 
 - Temperance

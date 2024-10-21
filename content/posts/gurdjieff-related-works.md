@@ -1,7 +1,7 @@
 ---
 title: Gurdjieff-Related Works
-lastmod: "2024-07-25T20:55:31.459Z"
-date: "2023-06-29T12:02:30.500Z"
+lastmod: "2024-10-12T13:25:56.537Z"
+date: "2024-10-12T13:25:56.534Z"
 ---
 
 - _In Search of the Miraculous_ by P.D. Ouspensky was written by one of Gurdjieff's famous students, who studied with him for several years in the early 20th century. It introduces Gurdjieff's teachings and offers a detailed account of Ouspensky's experiences studying with him.

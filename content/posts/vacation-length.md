@@ -1,7 +1,7 @@
 ---
 title: Vacation length
-lastmod: "2024-07-25T20:55:40.416Z"
-date: "2024-03-20T18:07:01.230Z"
+lastmod: "2024-10-12T13:25:56.643Z"
+date: "2024-10-12T13:25:56.636Z"
 ---
 
 single-day travel: 5 at destination + travel\

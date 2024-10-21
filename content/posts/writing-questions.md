@@ -1,7 +1,7 @@
 ---
 title: Writing Questions
-lastmod: "2024-07-25T20:55:41.199Z"
-date: "2024-01-22T22:32:26.939Z"
+lastmod: "2024-10-12T13:25:56.439Z"
+date: "2024-10-12T13:25:56.439Z"
 ---
 
 - Audience

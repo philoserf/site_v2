@@ -1,7 +1,7 @@
 ---
 title: Systems Thinking
-lastmod: "2024-07-25T20:55:39.509Z"
-date: "2023-10-31T12:54:30.367Z"
+lastmod: "2024-10-12T13:25:56.237Z"
+date: "2024-10-12T13:25:56.234Z"
 ---
 
 Key benefits of systems thinking include improved understanding of complexity, enhanced decision-making, and better responses to unintended consequences. It's used across many fields, including engineering, economics, social sciences, and more.

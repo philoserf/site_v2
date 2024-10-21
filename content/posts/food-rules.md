@@ -1,7 +1,7 @@
 ---
 title: Food Rules
-lastmod: "2024-07-25T20:55:30.117Z"
-date: "2024-01-22T22:32:26.945Z"
+lastmod: "2024-10-12T13:25:56.405Z"
+date: "2024-10-12T13:25:56.405Z"
 ---
 
 Source: <https://michaelpollan.com/books/food-rules/>

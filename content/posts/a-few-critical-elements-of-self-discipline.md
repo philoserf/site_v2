@@ -1,7 +1,7 @@
 ---
 title: A few critical elements of self-discipline
-lastmod: "2024-08-27T20:46:56.856Z"
-date: "2024-08-07T20:20:36.449Z"
+lastmod: "2024-10-12T13:25:55.875Z"
+date: "2024-10-12T13:25:55.875Z"
 ---
 
 Self-discipline requires willpower and control over one's thoughts, emotions, and behaviors. It involves resisting temptations and impulsive decisions that may provide instant gratification but conflict with long-term objectives.

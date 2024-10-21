@@ -1,7 +1,7 @@
 ---
 title: When to Link Notes and Why
-lastmod: "2024-07-25T20:55:40.711Z"
-date: "2023-06-23T13:38:50.196Z"
+lastmod: "2024-10-12T13:25:56.374Z"
+date: "2024-10-12T13:25:56.374Z"
 ---
 
 Source: <https://forum.obsidian.md/t/a-brutalist-approach-to-knowledge-management-in-obsidian/60553>

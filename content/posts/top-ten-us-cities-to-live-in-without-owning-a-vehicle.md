@@ -1,7 +1,7 @@
 ---
 title: Top Ten US Cities to Live in Without Owning a Vehicle
-lastmod: "2024-07-25T20:55:40.263Z"
-date: "2023-10-19T00:32:11.995Z"
+lastmod: "2024-10-12T13:25:56.577Z"
+date: "2024-10-12T13:25:56.577Z"
 ---
 
 Source: a CoworkingCafe report

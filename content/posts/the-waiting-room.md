@@ -1,7 +1,7 @@
 ---
 title: The Waiting Room
-lastmod: "2024-08-29T15:05:57.516Z"
-date: "2024-08-29T14:41:44.008Z"
+lastmod: "2024-10-12T13:25:56.428Z"
+date: "2024-10-12T13:25:56.428Z"
 ---
 
 Ana García stood resolute, her dark hair tied back in a tight ponytail amidst a sea of faces from every corner of the globe. Her eyes fixed on the government official across the room, her determination palpable. The soft glow of golden hour cast a warm light on her features, illuminating the sharp jawline and unwavering gaze.

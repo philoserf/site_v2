@@ -1,7 +1,7 @@
 ---
 title: Gottman's Marriage Tips
-lastmod: "2024-07-25T20:55:30.983Z"
-date: "2023-06-23T13:38:50.199Z"
+lastmod: "2024-10-12T13:25:56.442Z"
+date: "2024-10-12T13:25:56.442Z"
 ---
 
 Source: <https://www.yourskillfulmeans.com/knowledgebase/gottmans-marriage-tips/>

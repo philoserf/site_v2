@@ -1,7 +1,7 @@
 ---
 title: Goodnight
-lastmod: "2024-07-25T20:55:30.962Z"
-date: "2024-01-09T17:44:56.082Z"
+lastmod: "2024-10-12T13:25:56.439Z"
+date: "2024-10-12T13:25:56.439Z"
 ---
 
 <div style="text-align: right"><small>by Mark Ayers, 2002</small></div>

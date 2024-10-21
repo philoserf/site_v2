@@ -1,7 +1,7 @@
 ---
 title: Task Defined
-lastmod: "2024-07-25T20:55:39.522Z"
-date: "2024-01-22T22:32:26.947Z"
+lastmod: "2024-10-12T13:25:56.275Z"
+date: "2024-10-12T13:25:56.274Z"
 ---
 
 Source: GTD

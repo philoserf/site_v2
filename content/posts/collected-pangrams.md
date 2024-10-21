@@ -1,7 +1,7 @@
 ---
 title: Collected Pangrams
-lastmod: "2024-07-25T20:55:28.464Z"
-date: "2023-11-08T20:49:55.885Z"
+lastmod: "2024-10-12T13:25:56.468Z"
+date: "2024-10-12T13:25:56.468Z"
 ---
 
 - Veldt jynx grimps waqf zho buck

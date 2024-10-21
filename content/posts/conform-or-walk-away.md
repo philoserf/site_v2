@@ -1,7 +1,7 @@
 ---
 title: Conform or Walk Away
-lastmod: "2024-07-25T20:55:28.508Z"
-date: "2023-11-28T22:12:04.540Z"
+lastmod: "2024-10-12T13:25:56.509Z"
+date: "2024-10-12T13:25:56.505Z"
 ---
 
 Observation: We often conform to what we see others doing or walk away.\

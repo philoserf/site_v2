@@ -1,7 +1,7 @@
 ---
 title: Memories of the End of the Last Ice Age From Those Who Were There
-lastmod: "2024-07-25T20:55:33.687Z"
-date: "2023-06-23T13:38:50.179Z"
+lastmod: "2024-10-12T13:25:56.475Z"
+date: "2024-10-12T13:25:56.466Z"
 ---
 
 Source: <https://hakaimagazine.com/news/memories-of-the-end-of-the-last-ice-age-from-those-who-were-there/>

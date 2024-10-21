@@ -1,7 +1,7 @@
 ---
 title: Cocktail bitters
-lastmod: "2024-07-25T20:55:28.166Z"
-date: "2024-06-25T01:19:14.738Z"
+lastmod: "2024-10-12T13:25:56.443Z"
+date: "2024-10-12T13:25:56.443Z"
 ---
 
 Cocktail bitters are spirits infused with flavors, typically from plants, fruits, or spices. They date back to the early 1800s and were initially used to assist with digestion and cure stomach aches. Infusing your spirits allows you to control the flavor and strength of the bitters.

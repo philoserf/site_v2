@@ -1,7 +1,7 @@
 ---
 title: The Common and Recent Bogie Golf Club
-lastmod: "2024-07-25T20:55:39.781Z"
-date: "2023-10-19T00:20:50.077Z"
+lastmod: "2024-10-12T13:25:56.339Z"
+date: "2024-10-12T13:25:56.333Z"
 ---
 
 a.k.a the <abbr>C\&RBGC</abbr> or the <abbr>C\&R</abbr>.

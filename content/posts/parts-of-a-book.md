@@ -1,7 +1,7 @@
 ---
 title: Parts of a Book
-lastmod: "2024-07-25T20:55:34.808Z"
-date: "2023-07-19T13:16:15.943Z"
+lastmod: "2024-10-12T13:25:56.668Z"
+date: "2024-10-12T13:25:56.667Z"
 ---
 
 Source: Wikipedia

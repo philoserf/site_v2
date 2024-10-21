@@ -1,7 +1,7 @@
 ---
 title: Quill letter-writing game
-lastmod: "2024-07-25T20:55:36.744Z"
-date: "2024-06-10T01:09:06.572Z"
+lastmod: "2024-10-12T13:25:56.641Z"
+date: "2024-10-12T13:25:56.639Z"
 ---
 
 The objective in a game of Quill is to write a letter using the provided words in "The Ink Pot" and get the highest score at the end of the scenario. Points are scored in the following ways:

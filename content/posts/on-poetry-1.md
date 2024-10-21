@@ -1,7 +1,7 @@
 ---
 title: On Poetry 1
-lastmod: "2024-07-25T20:55:34.348Z"
-date: "2023-02-24T01:26:03.928Z"
+lastmod: "2024-10-12T13:25:56.561Z"
+date: "2024-10-12T13:25:56.561Z"
 ---
 
 <div style="text-align: right"><small>by Mark Ayers, 1984</small></div>

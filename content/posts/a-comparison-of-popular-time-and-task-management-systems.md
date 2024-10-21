@@ -1,7 +1,7 @@
 ---
 title: A comparison of popular time and task management systems
-lastmod: "2024-09-08T14:30:05.926Z"
-date: "2024-09-08T13:59:36.851Z"
+lastmod: "2024-10-12T13:25:55.871Z"
+date: "2024-10-12T13:25:55.869Z"
 ---
 
 The following compares three popular time and task management systems: Franklin Covey, David Allen's Getting Things Done (GTD), and Ryder Carroll's Bullet Journal. Each system has its unique features, strengths, and weaknesses. By understanding the critical aspects of each system, you can identify the best elements to incorporate into your personal productivity approach.
@@ -10,7 +10,7 @@ I present these in order of their age: Franklin Covey is the oldest, GTD is next
 
 ## Franklin Covey Time Management System
 
-Franklin Covey emphasizes the importance of setting clear goals, prioritizing tasks, and planning based on values. Users are encouraged to align their tasks with personal values and roles, promoting a more fulfilling time management approach. Regular review and reflection are emphasized to evaluate progress and facilitate learning.
+Franklin Covey emphasizes the importance of setting clear goals, prioritizing tasks, and planning based on values. Users are encouraged to align their functions with personal values and roles, promoting a more fulfilling time management approach. Regular review and reflection are emphasized to evaluate progress and facilitate learning.
 
 ### Key Features
 

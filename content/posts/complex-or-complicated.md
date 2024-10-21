@@ -1,7 +1,7 @@
 ---
 title: Complex or complicated
-lastmod: "2024-08-23T02:37:17.951Z"
-date: "2024-08-23T01:48:12.326Z"
+lastmod: "2024-10-12T13:25:56.487Z"
+date: "2024-10-12T13:25:56.487Z"
 ---
 
 The words complex and complicated have similar meanings, but their usage has some nuances.

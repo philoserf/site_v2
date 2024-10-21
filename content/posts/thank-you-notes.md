@@ -1,7 +1,7 @@
 ---
 title: Thank You Notes
-lastmod: "2024-07-25T20:55:39.725Z"
-date: "2024-01-22T22:32:26.947Z"
+lastmod: "2024-10-12T13:25:56.288Z"
+date: "2024-10-12T13:25:56.287Z"
 ---
 
 1. An optional situational opening
