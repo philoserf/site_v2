@@ -1,6 +1,6 @@
 ---
 title: Understanding OKRs for Individual Contributors
-lastmod: "2024-10-21T01:25:19.067Z"
+lastmod: "2024-10-21T01:36:15.088Z"
 date: "2024-10-12"
 ---
 

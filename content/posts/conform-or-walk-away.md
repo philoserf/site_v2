@@ -1,6 +1,6 @@
 ---
 title: Conform or Walk Away
-lastmod: "2024-10-21T01:25:19.662Z"
+lastmod: "2024-10-21T01:36:15.487Z"
 date: "2024-10-12"
 ---
 

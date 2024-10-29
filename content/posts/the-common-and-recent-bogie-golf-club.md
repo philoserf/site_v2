@@ -1,6 +1,6 @@
 ---
 title: The Common and Recent Bogie Golf Club
-lastmod: "2024-10-21T01:25:19.132Z"
+lastmod: "2024-10-21T01:36:14.880Z"
 date: "2024-10-12"
 ---
 

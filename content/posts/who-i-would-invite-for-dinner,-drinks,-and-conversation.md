@@ -1,6 +1,6 @@
 ---
 title: Who I would invite for dinner, drinks, and conversation
-lastmod: "2024-10-21T01:25:18.997Z"
+lastmod: "2024-10-21T01:36:15.725Z"
 date: "2024-10-12"
 ---
 

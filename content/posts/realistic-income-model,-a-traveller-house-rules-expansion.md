@@ -1,6 +1,6 @@
 ---
 title: Realistic Income Model, a Traveller House Rules Expansion
-lastmod: "2024-10-21T01:25:19.205Z"
+lastmod: "2024-10-21T01:36:15.694Z"
 date: "2024-10-12"
 ---
 

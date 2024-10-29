@@ -1,6 +1,6 @@
 ---
 title: How plain folk divided the day in the pre-clock era
-lastmod: "2024-10-21T01:25:19.384Z"
+lastmod: "2024-10-21T01:36:15.493Z"
 date: "2024-10-12"
 ---
 

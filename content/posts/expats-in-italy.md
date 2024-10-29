@@ -1,6 +1,6 @@
 ---
 title: Expats in Italy
-lastmod: "2024-10-21T01:25:19.558Z"
+lastmod: "2024-10-27T19:32:33.609Z"
 date: "2024-10-12"
 ---
 

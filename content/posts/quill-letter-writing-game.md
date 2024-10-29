@@ -1,6 +1,6 @@
 ---
 title: Quill letter-writing game
-lastmod: "2024-10-21T01:25:19.209Z"
+lastmod: "2024-10-21T01:36:15.694Z"
 date: "2024-10-12"
 ---
 

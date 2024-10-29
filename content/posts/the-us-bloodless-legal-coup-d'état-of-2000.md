@@ -1,6 +1,6 @@
 ---
 title: The US Bloodless Legal Coup d'État of 2000
-lastmod: "2024-10-21T01:25:19.113Z"
+lastmod: "2024-10-21T01:36:15.696Z"
 date: "2024-10-12"
 ---
 

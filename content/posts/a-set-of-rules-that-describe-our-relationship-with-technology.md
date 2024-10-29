@@ -1,6 +1,6 @@
 ---
 title: A set of rules that describe our relationship with technology
-lastmod: "2024-10-21T01:25:19.742Z"
+lastmod: "2024-10-21T01:36:15.441Z"
 date: "2024-10-12"
 ---
 
