@@ -8,7 +8,6 @@ tasks:
   bootstrap:
     sources: [Brewfile]
     generates: [Brewfile.lock.json]
-    method: timestamp
     cmds:
       - brew bundle
 

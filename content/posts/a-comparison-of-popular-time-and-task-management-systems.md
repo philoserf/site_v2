@@ -1,6 +1,6 @@
 ---
 title: A comparison of popular time and task management systems
-lastmod: "2024-10-21T01:25:19.751Z"
+lastmod: "2024-10-21T01:36:15.431Z"
 date: "2024-10-12"
 ---
 

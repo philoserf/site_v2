@@ -1,6 +1,6 @@
 ---
 title: Vacation length
-lastmod: "2024-10-21T01:25:19.063Z"
+lastmod: "2024-10-21T01:36:15.394Z"
 date: "2024-10-12"
 ---
 

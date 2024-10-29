@@ -1,6 +1,6 @@
 ---
 title: When to Link Notes and Why
-lastmod: "2024-10-21T01:25:18.999Z"
+lastmod: "2024-10-21T01:36:15.394Z"
 date: "2024-10-12"
 ---
 

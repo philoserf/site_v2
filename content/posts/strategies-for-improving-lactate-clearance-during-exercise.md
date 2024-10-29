@@ -1,6 +1,6 @@
 ---
 title: Strategies for improving lactate clearance during exercise
-lastmod: "2024-10-21T01:25:19.152Z"
+lastmod: "2024-10-21T01:36:15.454Z"
 date: "2024-10-12"
 ---
 

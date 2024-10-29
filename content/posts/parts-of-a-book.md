@@ -1,6 +1,6 @@
 ---
 title: Parts of a Book
-lastmod: "2024-10-21T01:25:19.231Z"
+lastmod: "2024-10-21T01:36:14.815Z"
 date: "2024-10-12"
 ---
 

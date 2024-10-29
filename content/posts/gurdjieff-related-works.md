@@ -1,6 +1,6 @@
 ---
 title: Gurdjieff-Related Works
-lastmod: "2024-10-21T01:25:19.490Z"
+lastmod: "2024-10-21T01:36:15.195Z"
 date: "2024-10-12"
 ---
 

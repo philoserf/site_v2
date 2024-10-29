@@ -1,6 +1,6 @@
 ---
 title: Gottman's Marriage Tips
-lastmod: "2024-10-21T01:25:19.502Z"
+lastmod: "2024-10-21T01:36:15.401Z"
 date: "2024-10-12"
 ---
 
