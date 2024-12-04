@@ -24,9 +24,6 @@ params:
     - name: Mastodon
       icon: "fa fa-mastodon fa-2x"
       url: https://pkm.social/@philoserf
-    - name: Notes
-      icon: "fa fa-file-text fa-2x"
-      url: https://notes.philoserf.com/
 
 menus:
   main:
