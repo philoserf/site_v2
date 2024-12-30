@@ -4,12 +4,10 @@ title: Now
 
 I am …
 
-- back from a summer traveling
 - trying to sleep, move, eat, grow, play, & share each day
-- grateful for …
-  - autumns many colors, textures, and temperatures
+- grateful for the gift or insatiable curiosity
 - looking forward to …
-  - seeing family at our Thanksgiving in Mazatlan
+  - enjoying each day and walks in all weather
   - the total Solar eclipse on 2026-08-12 as seen from Bilbao
 
 My current pastimes are …
@@ -17,8 +15,6 @@ My current pastimes are …
 - building strength, stability, & stamina
 - craft cocktails
 - reading
-
-See also <https://notes.philoserf.com/Books+I+am+reading>
 
 ---
 
