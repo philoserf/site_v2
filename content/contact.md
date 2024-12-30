@@ -2,6 +2,8 @@
 title: Contact
 ---
 
+Please do reach out. Say hello.
+
 ```plaintext
 Mark Ayers
 160 ROLLINGWOOD DR

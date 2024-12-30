@@ -9,3 +9,5 @@ After graduating in Political Science from the University at Albany, a public re
 Mark’s life isn’t just about work. He enjoys exploring new places, cherishing family moments, and maintaining personal well-being.
 
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
+
+This site is built on [Apple](http://apple.com/) hardware, using [Hugo](https://gohugo.io/), hosted on [GitHub Pages](https://github.com/), and cached by [Cloudflare](https://cloudflare.com/).
