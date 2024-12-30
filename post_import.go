@@ -150,5 +150,3 @@ func renameImports(dir string) error {
 	}
 	return nil
 }
-
-// Add other functions from rename_imports.go, strip_footer.go here
