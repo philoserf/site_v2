@@ -36,9 +36,6 @@ menus:
     - name: "Contact"
       url: "contact/"
       weight: 3
-    - name: "Colophon"
-      url: "colophon/"
-      weight: 4
     - name: "Posts"
       url: "posts/"
       weight: 90
