@@ -10,143 +10,153 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
-// FrontMatter struct from strip_frontmatter.go
+// FrontMatter represents the YAML front matter of an article.
 type FrontMatter struct {
 	Title   string `yaml:"title"`
 	LastMod string `yaml:"lastmod"`
 	Date    string `yaml:"date"`
 }
 
-// Add other type definitions from rename_imports.go, strip_footer.go here
-
 func main() {
-	path := "./content/posts"
+	const path = "./content/posts"
 
 	err := filepath.Walk(path, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
-			return err
+			return fmt.Errorf("error accessing path %q: %w", path, err)
 		}
+
 		if !info.IsDir() && strings.HasSuffix(info.Name(), ".md") {
-			processFile(path)
-		}
-		return nil
-	})
-	if err != nil {
-		log.Fatalf("Error walking the path %q: %v\n", path, err)
-	}
-}
-
-func processFile(path string) {
-	content, err := os.ReadFile(path)
-	if err != nil {
-		log.Fatalf("Error reading file %q: %v\n", path, err)
-	}
-
-	// Call functions to process the file content
-	content = stripFrontMatter(content)
-	content = stripH1(content)
-	content = stripFooter(content)
-
-	err = os.WriteFile(path, content, 0o644)
-	if err != nil {
-		log.Fatalf("Error writing file %q: %v\n", path, err)
-	}
-
-	err = renameImports(path)
-	if err != nil {
-		log.Fatalf("Error renaming file %q: %v\n", path, err)
-	}
-}
-
-// Function from strip_frontmatter.go
-func stripFrontMatter(content []byte) []byte {
-	parts := strings.SplitN(string(content), "---", 3)
-	if len(parts) < 3 {
-		log.Printf("No YAML front matter found\n")
-		return content
-	}
-
-	var fm FrontMatter
-	err := yaml.Unmarshal([]byte(parts[1]), &fm)
-	if err != nil {
-		log.Printf("Error parsing YAML front matter: %v\n", err)
-		return content
-	}
-
-	newFrontMatter, err := yaml.Marshal(&fm)
-	if err != nil {
-		log.Printf("Error marshaling new front matter: %v\n", err)
-		return content
-	}
-
-	newContent := fmt.Sprintf("---\n%s---\n%s", newFrontMatter, parts[2])
-	return []byte(newContent)
-}
-
-// Function from strip_h1.go
-func stripH1(content []byte) []byte {
-	lines := strings.Split(string(content), "\n")
-	var newLines []string
-
-	for _, line := range lines {
-		if !strings.HasPrefix(line, "# ") {
-			newLines = append(newLines, line)
-		}
-	}
-
-	newContent := strings.Join(newLines, "\n")
-	return []byte(newContent)
-}
-
-// Function from strip_footer.go
-func stripFooter(content []byte) []byte {
-	lines := strings.Split(string(content), "\n")
-	var newLines []string
-	found := false
-
-	for _, line := range lines {
-		if strings.TrimSpace(line) == "***" {
-			found = true
-			break
-		}
-		newLines = append(newLines, line)
-	}
-
-	if !found {
-		log.Printf("No '***' line found\n")
-		return content
-	}
-
-	newContent := strings.Join(newLines, "\n")
-	return []byte(newContent)
-}
-
-// Function from rename_imports.go
-func renameImports(dir string) error {
-	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
-		if err != nil {
-			return err
-		}
-
-		if info.IsDir() {
-			return nil
-		}
-
-		newFileName := strings.ToLower(strings.ReplaceAll(info.Name(), " ", "-"))
-		newPath := filepath.Join(filepath.Dir(path), newFileName)
-
-		if newPath != path {
-			fmt.Printf("Renaming %s to %s\n", path, newPath)
-			err := os.Rename(path, newPath)
-			if err != nil {
-				fmt.Println("Error renaming file:", err)
+			if err := processFile(path); err != nil {
+				return fmt.Errorf("error processing file %q: %w", path, err)
 			}
 		}
 
 		return nil
 	})
 	if err != nil {
-		fmt.Println("Error:", err)
+		log.Fatalf("error walking the path %q: %v", path, err)
 	}
+}
+
+// processFile coordinates the processing of a file.
+func processFile(path string) error {
+	content, err := os.ReadFile(path)
+	if err != nil {
+		return fmt.Errorf("error reading file %q: %w", path, err)
+	}
+
+	content = stripFrontMatter(content)
+	content = stripH1(content)
+	content = stripFooter(content)
+
+	const ownerReadWrite = 0o600
+
+	err = os.WriteFile(path, content, ownerReadWrite)
+	if err != nil {
+		return fmt.Errorf("error writing file %q: %w", path, err)
+	}
+
+	err = renameFile(path)
+	if err != nil {
+		return fmt.Errorf("error renaming file %q: %w", path, err)
+	}
+
+	return nil
+}
+
+// stripFrontMatter removes the YAML front matter from the content.
+func stripFrontMatter(content []byte) []byte {
+	const (
+		frontMatterParts = 3
+		delimiter        = "---"
+	)
+
+	parts := strings.SplitN(string(content), delimiter, frontMatterParts)
+	if len(parts) < frontMatterParts {
+		return content
+	}
+
+	var frontMatter FrontMatter
+
+	err := yaml.Unmarshal([]byte(parts[1]), &frontMatter)
+	if err != nil {
+		return content
+	}
+
+	newFrontMatter, err := yaml.Marshal(&frontMatter)
+	if err != nil {
+		return content
+	}
+
+	newContent := fmt.Sprintf("%s\n%s%s\n%s", delimiter, newFrontMatter, delimiter, parts[2])
+
+	return []byte(newContent)
+}
+
+// stripH1 removes the first H1 header from the content.
+func stripH1(content []byte) []byte {
+	const headerPrefix = "# "
+
+	lines := strings.Split(string(content), "\n")
+
+	newLines := make([]string, 0, len(lines))
+
+	for _, line := range lines {
+		if !strings.HasPrefix(line, headerPrefix) {
+			newLines = append(newLines, line)
+		}
+	}
+
+	newContent := strings.Join(newLines, "\n")
+
+	return []byte(newContent)
+}
+
+// stripFooter removes the markdown footer from the content.
+func stripFooter(content []byte) []byte {
+	const footerMarker = "***"
+
+	lines := strings.Split(string(content), "\n")
+
+	newLines := make([]string, 0, len(lines))
+
+	found := false
+
+	for _, line := range lines {
+		if strings.TrimSpace(line) == footerMarker {
+			found = true
+
+			break
+		}
+
+		newLines = append(newLines, line)
+	}
+
+	if !found {
+		return content
+	}
+
+	newContent := strings.Join(newLines, "\n")
+
+	return []byte(newContent)
+}
+
+// renameFile renames the file to lowercase and replaces spaces with hyphens.
+func renameFile(path string) error {
+	info, err := os.Stat(path)
+	if err != nil {
+		return fmt.Errorf("%w: error getting file info for %q", err, path)
+	}
+
+	newFileName := strings.ToLower(strings.ReplaceAll(info.Name(), " ", "-"))
+	newPath := filepath.Join(filepath.Dir(path), newFileName)
+
+	if newPath != path {
+		err := os.Rename(path, newPath)
+		if err != nil {
+			return fmt.Errorf("error renaming file %q to %q: %w", path, newPath, err)
+		}
+	}
+
 	return nil
 }
