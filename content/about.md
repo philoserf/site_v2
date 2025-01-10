@@ -8,7 +8,6 @@ After earning his Political Science degree from the University at Albany (SUNY),
 
 Beyond his professional endeavors, Mark finds fulfillment in cultural exploration. He balances this wanderlust with a dedication to family life and personal wellness, embodying the belief that a rich life draws from both ambitious pursuits and meaningful connections.
 
-
 _The views expressed here are his own. They are not endorsed, approved, or reviewed by any other person or organization._
 
 This site is built on [Apple](http://apple.com/) hardware, using [Hugo](https://gohugo.io/), hosted on [GitHub Pages](https://github.com/), and cached by [Cloudflare](https://cloudflare.com/).
