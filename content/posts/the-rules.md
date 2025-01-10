@@ -4,6 +4,7 @@ lastmod: "2025-01-10T14:44:38.248Z"
 date: "2023-02-24T01:26:03.000Z"
 ---
 
+
 ## Keep it simple or Make it when you need it
 
 - If it has a name, do not give it another name.

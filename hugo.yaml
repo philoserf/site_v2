@@ -3,10 +3,6 @@ baseURL: https://philoserf.com/
 languageCode: en-US
 copyright: Mark Ayers
 
-module:
-  imports:
-    - path: github.com/philoserf/theme
-
 params:
   author: Mark Ayers
   since: 2023
